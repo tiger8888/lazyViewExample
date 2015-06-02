@@ -4,7 +4,7 @@
 
 
 
-在代码里改变设置查看变化:
+#在代码里改变设置查看变化
 
-#define PS_SUBCLASS PSLazyView
+\#define PS_SUBCLASS PSLazyView<br>
 //#define PS_SUBCLASS UIView

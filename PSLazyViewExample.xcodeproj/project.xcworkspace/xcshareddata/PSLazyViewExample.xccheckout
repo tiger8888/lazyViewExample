@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FB52E56F-3466-4AE7-A5A9-D1BFF2FFF462</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PSLazyViewExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0A9472739D5F694612BBE7171EFC7F34E8852482</key>
+		<string>https://github.com/sbxIOS/lazyViewExample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PSLazyViewExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0A9472739D5F694612BBE7171EFC7F34E8852482</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sbxIOS/lazyViewExample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0A9472739D5F694612BBE7171EFC7F34E8852482</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0A9472739D5F694612BBE7171EFC7F34E8852482</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lazyViewExample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
